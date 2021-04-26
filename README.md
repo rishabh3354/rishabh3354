@@ -3,7 +3,7 @@
 
 <br />
 
-Hi, I'm [Rishabh Bhardwaj](https://warlordsoftwares.in/), A passionate individual who loves building Web applications and Desktop applications. A software developer by profession and a linux lover by choice.
+Hi, I'm [Rishabh Bhardwaj](https://warlordsoftwares.in/), A passionate individual who loves building Web Applications and Linux Applications. A software Developer by profession and a Linux lover by choice.
 
 I am also an open-source enthusiast and Snapcraft app developer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. checkout my contribution in snapcraft.
 
