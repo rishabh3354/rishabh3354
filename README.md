@@ -5,7 +5,7 @@
 
 Hi, I'm [Rishabh Bhardwaj](https://warlordsoftwares.in/), A passionate individual who loves building web applications, desktop applications, a software developer and a linux lover, and software engineer by profession. 
 
-I am also an open-source enthusiast and Snapcraft app developer for linux os. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. checkout my contribution in snapcraft.
+I am also an open-source enthusiast and Snapcraft app developer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. checkout my contribution in snapcraft.
 
 [Checkout my work at Snapstore](https://snapcraft.io/search?q=rishabh3354)
 
