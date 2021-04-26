@@ -7,6 +7,9 @@ Hi, I'm [Rishabh Bhardwaj](https://warlordsoftwares.in/), A passionate individua
 
 I am also an open-source enthusiast and Linux app developer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. Checkout my work at [@Snapstore](https://snapcraft.io/search?q=rishabh3354)
 
+I also have a Live working Project deployed in Django. [@Warlordsoftwares](https://warlordsoftwares.in)
+
+
 
 ## Tech Stack
 
