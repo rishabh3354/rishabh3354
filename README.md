@@ -12,11 +12,15 @@ I also have a Live working Project deployed in Django. [@Warlordsoftwares.in](ht
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python" alt="django" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python" alt="django" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python" alt="django" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python" alt="django" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/django" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/golang" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/docker" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/aws" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/postgres" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/elasticsearch" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/linux" alt="django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/git" alt="django" width="40" height="40"/> </a>
 </p>
 
 
