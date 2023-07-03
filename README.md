@@ -26,9 +26,9 @@ I also have a Live working Project deployed in Django. [@Warlordsoftwares.in](ht
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rishabh3354" target="blank"><img align="center" src="https://img.icons8.com/linkedin" alt="https://www.linkedin.com/in/rishabh3354" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010643858590" target="blank"><img align="center" src="https://img.icons8.com/facebook" alt="Rishabh Bhardwaj" height="30" width="40" /></a>
-<a href="https://twitter.com/rishabh82935724" target="blank"><img align="center" src="https://img.icons8.com/twitter" alt="Rishabh Bhardwaj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishabh3354" target="blank"><img src="https://img.icons8.com/linkedin" alt="https://www.linkedin.com/in/rishabh3354" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010643858590" target="blank"><img src="https://img.icons8.com/facebook" alt="Rishabh Bhardwaj" height="30" width="40" /></a>
+<a href="https://twitter.com/rishabh82935724" target="blank"><img src="https://img.icons8.com/twitter" alt="Rishabh Bhardwaj" height="30" width="40" /></a>
 </p>
 
 
