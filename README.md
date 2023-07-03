@@ -11,6 +11,9 @@ I also have a Live working Project deployed in Django. [@Warlordsoftwares.in](ht
 
 <h3 align="left">Languages and Tools:</h3>
 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python" alt="django" width="40" height="40"/> </a>
+
+
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python
 " alt="bootstrap" width="40" height="40"/> </a>
 
