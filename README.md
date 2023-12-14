@@ -7,7 +7,7 @@ Hi, I'm [Rishabh Bhardwaj](https://rishabh3354.github.io/resume/), A passionate 
 
 I am also an open-source enthusiast and Linux app developer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. Checkout my work at [@Snapstore](https://snapcraft.io/search?q=rishabh3354)
 
-I also have a Live working Project deployed in Django. [@Warlordsoftwares.in](https://warlordsoftwares.in)
+I also have a Live working Project deployed in Django. [@Warlordsoftwares.com](https://warlordsoftwares.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
