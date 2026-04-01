@@ -25,10 +25,6 @@ App portal written in django. Check it out. [@Warlordsoftwares.com](https://warl
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/git" alt="django" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rishabh3354" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/linkedin" alt="django" width="40" height="40"/> </a>
-</p>
 
 
 ## Support Me
