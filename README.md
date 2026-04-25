@@ -2,7 +2,7 @@
 
 ### Software Developer • Linux Application Developer • Open Source Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-WarlordSoftwares-blue?style=for-the-badge)](https://warlordsoftwares.com/rishabh-bhardwaj/)
+[![About](https://img.shields.io/badge/Portfolio-WarlordSoftwares-blue?style=for-the-badge)](https://warlordsoftwares.com/rishabh-bhardwaj/)
 [![Snapcraft](https://img.shields.io/badge/Snapcraft-Apps-orange?style=for-the-badge&logo=snapcraft)](https://snapcraft.io/search?q=rishabh3354)
 [![Flathub](https://img.shields.io/badge/Flathub-Apps-blue?style=for-the-badge&logo=flathub)](https://flathub.org/apps/search?q=warlordsoftwares)
 
