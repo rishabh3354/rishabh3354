@@ -75,11 +75,23 @@ My focus is on creating practical, user-friendly, and production-ready applicati
 If you like what I do and would like to support my work,  
 maybe consider buying me a coffee ❤️
 
-<a href="https://www.buymeacoffee.com/rishabh33" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee" />
-</a>
+<p>
+  <a href="https://www.buymeacoffee.com/rishabh33" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+### 💙 Or Support via PayPal
+
+<p>
+  <a href="https://paypal.me/TechRishabh/10" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" width="180" alt="PayPal Support" />
+  </a>
+</p>
+
 
 ---
+
 
 ## 📫 Connect With Me
 
