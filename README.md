@@ -1,34 +1,59 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there 👋 I'm Rishabh Bhardwaj
 
+### Software Developer • Linux Application Developer • Open Source Enthusiast
 
-<br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-WarlordSoftwares-blue?style=for-the-badge)](https://warlordsoftwares.com/rishabh-bhardwaj/)
+[![Snapcraft](https://img.shields.io/badge/Snapcraft-Apps-orange?style=for-the-badge&logo=snapcraft)](https://snapcraft.io/search?q=rishabh3354)
+[![Flathub](https://img.shields.io/badge/Flathub-Apps-blue?style=for-the-badge&logo=flathub)](https://flathub.org/apps/search?q=warlordsoftwares)
 
-Hi, I'm [Rishabh Bhardwaj](https://warlordsoftwares.com/rishabh-bhardwaj/), A passionate individual who loves building Web Applications and Linux Applications. A software Developer by profession and a Linux lover by choice.
+---
 
-I am also an open-source enthusiast and Linux app developer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. Checkout my work at [@Snapstore](https://snapcraft.io/search?q=rishabh3354) and [@Flathub](https://flathub.org/apps/search?q=warlordsoftwares)
+## 🚀 About Me
 
+I’m **Rishabh Bhardwaj**, a Software Developer who loves building **Web Applications** and **Linux Desktop Applications**.
 
-App portal written in django. Check it out. [@Warlordsoftwares.com](https://warlordsoftwares.com)
+As a developer and Linux enthusiast, I enjoy creating software that makes everyday tasks simpler, faster, and more efficient.
 
-<h3 align="left">Languages and Tools:</h3>
+I also love contributing to the **Open Source Community** and publishing Linux apps on **Snapcraft** and **Flathub**.
 
-<p>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/python" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/django" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/golang" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/docker" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/html" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/css" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/javascript" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/sql" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/linux" alt="django" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/git" alt="django" width="40" height="40"/> </a>
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,go,docker,html,css,js,mysql,linux,git,github,vscode" />
 </p>
 
+---
 
+## 💙 Open Source Work
 
-## Support Me
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+I actively build and maintain Linux applications distributed through:
 
-<a href="https://www.buymeacoffee.com/rishabh33" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+- Snap Store  
+- Flathub  
+- Independent Linux desktop releases
 
+My focus is on creating applications that are practical, user-friendly, and production-ready.
+
+Explore my published work:
+
+🔸 Snapcraft: https://snapcraft.io/search?q=rishabh3354  
+🔹 Flathub: https://flathub.org/apps/search?q=warlordsoftwares
+
+---
+
+## ☕ Support Me
+
+If you like what I do and would like to support my work,  
+maybe consider buying me a coffee or tea ❤️
+
+<a href="https://www.buymeacoffee.com/rishabh33" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee" />
+</a>
+
+---
+
+## 🙌 Thanks for Visiting
+
+Thanks for visiting my profile!
