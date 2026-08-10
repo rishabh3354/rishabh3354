@@ -1,105 +1,102 @@
-# Hi there 👋 I'm Rishabh Bhardwaj
+# Rishabh Bhardwaj — Linux & Windows Desktop App Developer
 
-### Software Developer • Linux Application Developer • Open Source Enthusiast
+**I build desktop applications for Linux and Windows** — video converters, media downloaders, wallpaper managers and productivity tools — published on **Flathub**, the **Snap Store**, the **Microsoft Store** and **WinGet**. Python, PyQt5 and FFmpeg, with a Django web platform behind them.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-WarlordSoftwares-blue?style=for-the-badge)](https://warlordsoftwares.com/rishabh-bhardwaj/)
-[![Snapcraft](https://img.shields.io/badge/Snapcraft-Apps-orange?style=for-the-badge&logo=snapcraft)](https://snapcraft.io/search?q=rishabh3354)
-[![Flathub](https://img.shields.io/badge/Flathub-Apps-blue?style=for-the-badge&logo=flathub)](https://flathub.org/apps/search?q=warlordsoftwares)
+[![Website](https://img.shields.io/badge/Website-warlordsoftwares.com-2ea44f?style=for-the-badge)](https://warlordsoftwares.com/rishabh-bhardwaj/)
+[![Flathub](https://img.shields.io/badge/Flathub-5%20apps-4A90D9?style=for-the-badge&logo=flathub&logoColor=white)](https://flathub.org/apps/search?q=warlordsoftwares)
+[![Snapcraft](https://img.shields.io/badge/Snap%20Store-11%20apps-E95420?style=for-the-badge&logo=snapcraft&logoColor=white)](https://snapcraft.io/search?q=rishabh3354)
 
----
-
-## 🚀 About Me
-
-I’m **Rishabh Bhardwaj**, a Software Developer who loves building **Web Applications** and **Linux Desktop Applications**.
-
-As a developer and Linux enthusiast, I enjoy creating software that makes everyday tasks simpler, faster, and more efficient.
-
-I also love contributing to the **Open Source Community** and publishing Linux apps on **Snapcraft** and **Flathub**.
+> **680,000+ installs on Flathub alone**, across five apps — plus the Snap Store, the Microsoft Store, WinGet and direct downloads.
+>
+> If any of these are useful to you, a ⭐ on the repo genuinely helps other people find them.
 
 ---
 
-## 🛠 Languages & Tools
+## 📦 Featured apps
+
+| App | What it does | Flathub installs | Get it |
+|---|---|---|---|
+| **[4KTUBE](https://github.com/rishabh3354/4KTUBE)** | YouTube downloader — 4K/8K video, playlists, Shorts, MP3, subtitles | ![](https://img.shields.io/flathub/downloads/com.warlordsoftwares.youtube-downloader-4ktube?style=flat-square&label=&color=4A90D9) | [Flathub](https://flathub.org/apps/details/com.warlordsoftwares.youtube-downloader-4ktube) · [Snap](https://snapcraft.io/4ktube) · [Windows](https://github.com/rishabh3354/4KTUBE/releases/latest) |
+| **[DL-YouTube](https://github.com/rishabh3354/YOUTUBE-DL-PRO)** | All-in-one downloader for YouTube, Instagram, TikTok and 1400+ sites | ![](https://img.shields.io/flathub/downloads/com.warlordsoftwares.media-downloader?style=flat-square&label=&color=4A90D9) | [Flathub](https://flathub.org/apps/details/com.warlordsoftwares.media-downloader) · [Snap](https://snapcraft.io/youtube-dl-pro) · [Windows](https://github.com/rishabh3354/YOUTUBE-DL-PRO/releases/latest) |
+| **[FormatLab](https://github.com/rishabh3354/FORMAT_LAB)** | Video & audio converter — 40+ formats, GPU accelerated, batch mode | ![](https://img.shields.io/flathub/downloads/com.warlordsoftwares.formatlab?style=flat-square&label=&color=4A90D9) | [Flathub](https://flathub.org/apps/details/com.warlordsoftwares.formatlab) · [Snap](https://snapcraft.io/formatlab) · [Windows](https://github.com/rishabh3354/FORMAT_LAB/releases/latest) |
+| **[JPEG2PDF](https://github.com/rishabh3354/JPG2PDF)** | Convert images to high-quality PDF files | ![](https://img.shields.io/flathub/downloads/com.warlordsoftwares.jpeg2pdf?style=flat-square&label=&color=4A90D9) | [Flathub](https://flathub.org/apps/details/com.warlordsoftwares.jpeg2pdf) · [Snap](https://snapcraft.io/jpg2pdf) |
+| **[4KWALL](https://github.com/rishabh3354/4KWALL)** | Wallpaper manager & auto changer — HD/4K/8K, multi-monitor | ![](https://img.shields.io/flathub/downloads/com.warlordsoftwares.wallpaper-app-4kwall?style=flat-square&label=&color=4A90D9) | [Flathub](https://flathub.org/apps/details/com.warlordsoftwares.wallpaper-app-4kwall) · [Snap](https://snapcraft.io/4kwall) · [Microsoft Store](https://apps.microsoft.com/detail/9N305D02HC8C) |
+
+## 🧰 More apps
+
+| App | What it does | Get it |
+|---|---|---|
+| **[Panda Video Converter](https://github.com/rishabh3354/PANDA_VIDEO_CONVERTER)** | 4K video and audio converter for Linux | [Snap](https://snapcraft.io/panda-video-converter) |
+| **[PDF2OCR](https://github.com/rishabh3354/PDF2OCR)** | Turn scanned PDFs and images into editable text with Tesseract OCR | [Snap](https://snapcraft.io/pdf2go) |
+| **[VIZTUBE](https://github.com/rishabh3354/VIZTUBE)** | YouTube video, playlist and music downloader in HD | [Snap](https://snapcraft.io/viztube) |
+| **[TUBE2GO](https://github.com/rishabh3354/TUBE2GO)** | One-click YouTube downloader, 35+ languages | [Snap](https://snapcraft.io/tube2go) |
+| **[SPEEDX](https://github.com/rishabh3354/SPEEDX)** | Internet speed monitor with a system monitor utility | [Snap](https://snapcraft.io/speedx) |
+| **[htop-pro](https://github.com/rishabh3354/htop)** | Real-time CPU and RAM monitoring for the Linux desktop | [Snap](https://snapcraft.io/htop-pro) |
+| **[Sannyas](https://github.com/rishabh3354/sannyas)** | Android player for Osho's recorded discourses — Media3, Compose | [About](https://rishabh3354.github.io/sannyas/) |
+
+---
+
+## 🧱 Packaging & build infrastructure
+
+Reusable pieces I maintain for shipping PyQt5 apps as Snaps — useful if you package Linux desktop apps yourself:
+
+| Repo | What it is |
+|---|---|
+| **[pyqt5-runtime-core22](https://github.com/rishabh3354/pyqt5-runtime-core22)** | PyQt5 runtime content snap for `core22` |
+| **[pyqt5-runtime-core22-lite](https://github.com/rishabh3354/pyqt5-runtime-core22-lite)** | Same, without mpv and FFmpeg |
+| **[content-snap-core22](https://github.com/rishabh3354/content-snap-core22)** | Shared library content snap — FFmpeg, mpv and friends |
+| **[content-snap-core22-lite](https://github.com/rishabh3354/content-snap-core22-lite)** | Slimmer variant, excludes mpv and FFmpeg |
+| **[Qt Linguist with Google Translate](https://github.com/rishabh3354/Qt_Linguist_with_google_translate)** | Machine-translate Qt `.ts` files to bootstrap localisation |
+
+---
+
+## 🛠 Languages & tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,go,docker,html,css,js,mysql,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,qt,django,go,docker,html,css,js,mysql,linux,git,github,vscode" alt="Python, Qt, Django, Go, Docker, HTML, CSS, JavaScript, MySQL, Linux, Git, GitHub, VS Code" />
 </p>
 
----
-
-## 🌱 Currently Working On
-
-- Improving Linux desktop applications
-- Building better user experiences with PyQt5
-- Open-source productivity tools
-- Django-powered web platforms
+**Desktop:** Python · PyQt5 · FFmpeg · yt-dlp · PyInstaller
+**Packaging:** Snapcraft · Flatpak · AppImage · MSIX · WinGet
+**Web:** Django · MySQL · Docker
 
 ---
 
-## 💡 What I Love
+## 🌱 What I'm working on
 
-- Linux & Open Source
-- Desktop App Development
-- Automation Tools
-- Clean UI/UX
-- Performance Optimization
+- Making the Linux desktop apps faster and easier to use
+- Better packaging across Flatpak, Snap, AppImage, WinGet and the Microsoft Store
+- Localisation — several apps ship in 35+ languages
+- Django-powered licensing and update infrastructure behind the apps
 
----
-
-## 📦 Featured Projects
-
-### <img src="https://dashboard.snapcraft.io/site_media/appmedia/2021/10/icon_ANWNyvs.png" width="24"/> [4KTUBE](https://flathub.org/en/apps/com.warlordsoftwares.youtube-downloader-4ktube)
-A powerful YouTube downloader built for speed, simplicity, and productivity.
-
-### <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/02/logo_1USeTVN.png" width="24"/> [FormatLab](https://flathub.org/en/apps/com.warlordsoftwares.formatlab)
-A video and audio converter focused on clean UI and efficient workflows.
-
-### <img src="https://dashboard.snapcraft.io/site_media/appmedia/2021/06/icon_iz8xf8D.png" width="24"/> [JPEG2PDF](https://flathub.org/en/apps/com.warlordsoftwares.jpeg2pdf)
-A simple and efficient tool to convert images into high-quality PDF files.
+A note on licensing: the applications themselves are **proprietary but free to download and use**, with an optional one-time Pro upgrade and no subscription. Their GitHub repos host releases, packaging metadata, documentation and issue tracking. The packaging and runtime repos above are genuinely reusable.
 
 ---
 
-## 💙 Open Source Work
+## ☕ Support my work
 
-I actively build and maintain Linux applications distributed through:
-
-- Snap Store
-- Flathub
-- Independent Linux desktop releases
-
-My focus is on creating practical, user-friendly, and production-ready applications.
-
----
-
-## ☕ Support Me
-
-If you like what I do and would like to support my work,  
-maybe consider buying me a coffee ❤️
+If one of these apps saved you time, you can support the work directly:
 
 <p>
   <a href="https://www.buymeacoffee.com/rishabh33" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy me a coffee" />
   </a>
-</p>
-
-### 💙 Or Support via PayPal
-
-<p>
+  &nbsp;
   <a href="https://paypal.me/TechRishabh/10" target="_blank">
-    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" width="180" alt="PayPal Support" />
+    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" width="180" alt="Support via PayPal" />
   </a>
 </p>
 
+Starring a repo is free and helps just as much. ⭐
 
 ---
 
+## 📫 Get in touch
 
-## 📫 Connect With Me
-
-🌐 Website: https://warlordsoftwares.com  
-📧 Email: contact@warlordsoftwares.com
+- 🌐 **Website:** [warlordsoftwares.com](https://warlordsoftwares.com/rishabh-bhardwaj/)
+- 📧 **Email:** contact@warlordsoftwares.com
+- 🐞 **Bugs & feature requests:** open an issue on the app's repo — that is the fastest route
 
 ---
 
-## 🙌 Thanks for Visiting
-
-Thanks for visiting my profile!
+<sub>Building tools that solve real problems, from Uttarakhand, India.</sub>
