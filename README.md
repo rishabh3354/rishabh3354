@@ -7,8 +7,7 @@
 [![Snapcraft](https://img.shields.io/badge/Snap%20Store-11%20apps-E95420?style=for-the-badge&logo=snapcraft&logoColor=white)](https://snapcraft.io/search?q=rishabh3354)
 
 > **790,000+ installs on Flathub alone**, across six apps — plus the Snap Store, the Microsoft Store, WinGet and direct downloads.
->
-> If any of these are useful to you, a ⭐ on the repo genuinely helps other people find them.
+
 
 ---
 
@@ -86,8 +85,6 @@ If one of these apps saved you time, you can support the work directly:
     <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" width="180" alt="Support via PayPal" />
   </a>
 </p>
-
-Starring a repo is free and helps just as much. ⭐
 
 ---
 
